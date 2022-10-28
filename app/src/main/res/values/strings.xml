@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_Sencilla_Santamaria_Tomas</string>
+    <string name="nombre">Escribe tu nombre:</string>
+    <string name="Apellido">Escribe tu apellido:</string>
+    <string name="Correo">Escribe tu Correo electronico:</string>
+    <string name="aceptar">Clicar para aceptar:</string>
+</resources>
